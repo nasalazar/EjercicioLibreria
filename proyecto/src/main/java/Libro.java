@@ -8,6 +8,6 @@
  *
  * @author Hp-14
  */
-public class librito {
+public class Libro {
     //PRUEBA queremos probar si funciona
 }

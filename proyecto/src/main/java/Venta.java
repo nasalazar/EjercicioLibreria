@@ -17,10 +17,12 @@ public class Venta {
     private String busqueda;/**
      * 
      * Esta variable guarda la palabra con la cual se hara la busqueda del libro 
+     * @param codigoLibro
      */
 
     public Venta(int codigoLibro) {/**
      * Este cocnstructor inicializa la variable de codigo del libro  
+     
      */
         this.codigoLibro = codigoLibro;
     }

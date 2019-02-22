@@ -27,11 +27,7 @@ public class Venta {
         this.codigoLibro = codigoLibro;
     }
 
-    public Venta(String busqueda) {/**
-     * Este constructor inicializa la variable de busqueda
-     */
-        this.busqueda = busqueda;
-    }
+    
 
     public void buscarLibro(){/**
      * Este metodo busca el libro segundo la variable de busqueda que digita el usuario, filtrando por el nombre del libro

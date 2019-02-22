@@ -16,12 +16,6 @@ public class Usuario {
     private String clave;/**
      * Variable que guarda la clave de usuario 
      */
-
-    public Usuario(String usuario, String clave) {
-        this.usuario = usuario;
-        this.clave = clave;
-    }
-    
     
     public void registroUsuario(){
         /**

@@ -58,11 +58,7 @@ public class Inventario {
         this.nombreLibro = nombreLibro;
     }
 
-    public Inventario( String busqueda) {/**
-     * Constructor que inicializa la variable para hacer la busqueda del libro
-     */
-        this.busqueda = busqueda;
-    }
+    
     
     public void agregarLibro(){
         /**

@@ -31,6 +31,8 @@ public class Usuario {
     public void loginUsuario(){
         /**
          * En este metodo el  usuario se logea para  ingresa a las ventas y adquirir libros  
+         * En caso de ser un cliente se dirige a la clase Venta, donde podra hacer transacciones como buscar o comprar libros
+         * En caso de ser un administrador se dirige a la parte de inventario donde se podra hacer transacciones como agregar libro y demas
          */
         
     }
